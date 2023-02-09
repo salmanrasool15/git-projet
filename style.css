@@ -1,0 +1,38 @@
+/* body{
+    background-color: blue;
+} */
+/* 
+ @media only screen and (max-width:600px){
+    body{
+     background-color: red; 
+   }
+  
+ }
+   @media only screen and (max-width:600px){
+   img{
+    width: 400px;
+   
+   }
+} */
+/* .main{
+    display: flex;
+   flex-direction: row-reverse;
+   justify-content: space-around;
+flex-wrap: wrap;
+   }
+
+.one,.two,.three{
+    border: 2px solid red;
+     width: 250px;  
+    
+} */
+/* .one{
+    flex: 1;
+}
+.two{
+    flex: 2;
+}
+.three{
+    flex: 1;
+} */
+
